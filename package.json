@@ -1,0 +1,15 @@
+{
+    "name": "chiascript",
+    "version": "1.0.0",
+    "description": "High level smart coin language for Chia that compiles to Chialisp.",
+    "main": "dist/index.js",
+    "repository": "https://github.com/Rigidity/ChiaScript.git",
+    "author": "Rigidity",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^16.7.10"
+    },
+    "dependencies": {
+        "dissector": "^2.0.0"
+    }
+}
